@@ -1,0 +1,6 @@
+:root {
+  --background-image: url("login\background_logon_default_windows_7-wallpaper-1920x1080-554643291.jpg");
+}
+body {
+  background-image: var(--background-image);
+}
