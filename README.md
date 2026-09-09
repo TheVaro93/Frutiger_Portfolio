@@ -1,6 +1,6 @@
 # Frutiger Portfolio
 
-Bon, pour les droits d'auteurs je pense que je vais sourcer toutes les images que j'ai prises xD :
+Bon, pour les droits d'auteurs je pense que je vais donner les sources des assets que j'ai utilisés xD :
 
 <a href="">-> Desktop wallpaper</a>  
 <a href="https://wallpaperswide.com/background_logon_default_windows_7-wallpapers.html">-> Login Wallpaper</a>  
